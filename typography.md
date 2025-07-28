@@ -16,6 +16,6 @@ main_nav: true
 
 # Working in Progress
 1.  **Land Financing Pressure and Local Government Administrative Fine Income**
-  **Authors**: With Jie Li (Supervisor), Yanghui Liu
+  **Authors**: With Jie Li, Yanghui Liu
 
 
