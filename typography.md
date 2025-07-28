@@ -4,7 +4,7 @@ title: Research
 permalink: /Research/
 main_nav: true
 ---
-
+# Published Paper
 1.  **The Option Value of Convertible Bonds amidst Economic Policy Uncertainty** 
   - **Journal**: *Journal of Fixed Income* (forthcoming). With Jie Li, Wenyan Wang, Tianhang Zhou
   - **Presentations**:2024 Doctoral Student Academic Forum in Peking University School of Economics, 2024 First “Youth Finance Elite” Doctoral Student Academic Forum in Central University of Finance and Economics
